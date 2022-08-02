@@ -1,6 +1,7 @@
 package UniversiteTakipSistemi;
 
 public class Main {
+    // @author Zehra Çakır
     public static void main(String[] args) {
         Calisan calisan=new Calisan("Zehra Çakır","05123456789", "patikadev@gmail.com");
         System.out.println(calisan.getAdSoyad()); 
@@ -16,5 +17,7 @@ public class Main {
         akademisyen.derseGir();
         akademisyen.cikis();
         akademisyen.yemekhane();
+
+        // Diğer sınıflardan da nesneler üretip main kısmını zneginleştirebiliriz.
     }
 }

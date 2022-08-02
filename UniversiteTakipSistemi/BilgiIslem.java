@@ -1,5 +1,5 @@
 package UniversiteTakipSistemi;
-
+ // @author Zehra Çakır
 public class BilgiIslem extends Memur {
     private String gorev;
     public BilgiIslem(String adSoyad, String telefon, String eposta,String departman,String mesai,String gorev){

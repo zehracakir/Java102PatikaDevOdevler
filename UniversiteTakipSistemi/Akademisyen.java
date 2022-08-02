@@ -1,5 +1,5 @@
 package UniversiteTakipSistemi;
-
+ // @author Zehra Çakır
 public class Akademisyen extends Calisan {
     private String bolum;
     private String unvan;

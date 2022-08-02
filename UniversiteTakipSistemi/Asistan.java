@@ -1,5 +1,5 @@
 package UniversiteTakipSistemi;
-
+ // @author Zehra Çakır
 public class Asistan extends Akademisyen {
     private String ofisSaati;
 

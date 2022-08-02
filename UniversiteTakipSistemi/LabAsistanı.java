@@ -1,5 +1,5 @@
 package UniversiteTakipSistemi;
-
+ // @author Zehra Çakır
 public class LabAsistanı extends Asistan {
     public LabAsistanı(String adSoyad, String telefon, String eposta, String bolum, String unvan, String ofisSaati){
         super(adSoyad, telefon, eposta, bolum, unvan, ofisSaati);

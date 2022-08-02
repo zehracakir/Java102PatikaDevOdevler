@@ -1,5 +1,5 @@
 package UniversiteTakipSistemi;
-
+ // @author Zehra Çakır
 public class Calisan {
     private String adSoyad;
     private String telefon;
