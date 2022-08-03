@@ -1,5 +1,6 @@
 package UniversiteTakipSistemi;
- // @author Zehra Çakır
+
+// @author Zehra Çakır
 public class OgretimGorevlisi extends Akademisyen {
     private String kapiNo;
 
