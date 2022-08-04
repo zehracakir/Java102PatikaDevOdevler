@@ -1,6 +1,6 @@
 package AdventureGame;
 
-import java.nio.file.LinkPermission;
+
 import java.util.Random;
 import java.util.Scanner;
 
@@ -150,7 +150,7 @@ public class Player {
         return damage;
     }
 
-    public void setDamage(int gender) {
+    public void setDamage(int damage) {
         this.damage = damage;
     }
 
